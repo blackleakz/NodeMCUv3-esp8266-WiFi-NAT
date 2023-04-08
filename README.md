@@ -66,3 +66,4 @@ Libarys:
   To install this firmware you can copy the code to your Arduino IDE or PlatformIO IDE and flash , otherwise you can download the compiledbinary and flash it with the esp8266-flash tool.
   
   
+  
